@@ -25,21 +25,21 @@ class ProductLocalDataSourceImpl implements ProductLocalDataSource {
         name: AppStrings.pizzaClasica,
         subName: AppStrings.salsaClasica,
         cost: AppStrings.price.toDouble(),
-        imagePath: AppImages.pizzaClassic2,
+        imagePath: AppImages.pizzaClassic,
       ),
       ProductModel(
         id: 'hamburguesa_special',
         name: AppStrings.hamburguesaMix,
         subName: AppStrings.dobleCarne,
         cost: AppStrings.price.toDouble(),
-        imagePath: AppImages.hamburguesa2,
+        imagePath: AppImages.hamburguesa,
       ),
       ProductModel(
         id: 'pizza_2', // Changed ID to be unique
         name: AppStrings.pizzaClasica,
         subName: AppStrings.salsaClasica,
         cost: AppStrings.price.toDouble(),
-        imagePath: AppImages.pizzaClassic2,
+        imagePath: AppImages.pizzaClassic,
       ),
     ];
 
@@ -71,14 +71,14 @@ class ProductLocalDataSourceImpl implements ProductLocalDataSource {
         name: AppStrings.malteadasTropicales,
         subName: AppStrings.elaboradoConJugos,
         cost: 12.58,
-        imagePath: AppImages.juicePng,
+        imagePath: AppImages.juice,
       ),
       const ProductModel(
         id: 'rec_2',
         name: AppStrings.malteadasTropicales,
         subName: AppStrings.salsaClasica,
         cost: 20.00,
-        imagePath: AppImages.juice2Png,
+        imagePath: AppImages.juice2,
       ),
     ];
 

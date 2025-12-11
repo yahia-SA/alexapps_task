@@ -28,7 +28,8 @@ flutter:
   generate: true
   assets:
     - assets/images/
-    - assets/icons/
+    - assets/images/png/
+    - assets/images/jpg/
     - assets/icons/bottomNav/
     - assets/icons/appBar/
     - assets/lottie/
