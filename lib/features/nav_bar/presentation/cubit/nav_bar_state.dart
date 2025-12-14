@@ -9,5 +9,4 @@ class NavBarInitial extends NavBarState {
 
 class NavBarChangeIndex extends NavBarState {
   NavBarChangeIndex(super.selectedIndex);
-
 }

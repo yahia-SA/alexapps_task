@@ -6,5 +6,4 @@ class NavBarCubit extends Cubit<NavBarState> {
   void changeIndex(int index) {
     emit(NavBarChangeIndex(index));
   }
-
 }

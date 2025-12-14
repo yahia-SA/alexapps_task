@@ -16,10 +16,7 @@ class FavoriteCubit extends Cubit<bool> {
 
   Future<void> _loadFavoriteState() async {
     final result = await getFavoriteStatus(GetFavoriteStatusParams(id: itemId));
-    result.fold(
-      (failure) => null,
-      (isFavorite) => emit(isFavorite),
-    );
+    result.fold((failure) => null, (isFavorite) => emit(isFavorite));
   }
 
   Future<void> toggle() async {

@@ -2,6 +2,10 @@
 
 A AlexApps Task Flutter application developed by **Yahia Samir**, demonstrating modern mobile development practices, Clean Architecture, and responsive design.
 
+## App Video
+
+<video src="screens/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Plus%20-%202025-12-14%20at%2016.14.35.mp4" controls autoplay loop muted></video>
+
 ## Project Overview
 
 This project is a functional mobile application featuring an e-commerce interface. It allows users to browse products, view details, manage a shopping cart, and mock the checkout process. The app is built with a focus on scalability, maintainability, and user experience.
