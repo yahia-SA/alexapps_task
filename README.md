@@ -4,8 +4,9 @@ A AlexApps Task Flutter application developed by **Yahia Samir**, demonstrating 
 
 ## App Video
 
-<video src="screens/Screen_Recording.mp4" controls autoplay loop muted></video>
-
+[<video src="screens/Screen_Recording.mp4" controls autoplay loop muted></video>
+](https://github.com/user-attachments/assets/d6860db0-b8bb-4e4b-ba23-dfe287e41841
+)
 ## Project Overview
 
 This project is a functional mobile application featuring an e-commerce interface. It allows users to browse products, view details, manage a shopping cart, and mock the checkout process. The app is built with a focus on scalability, maintainability, and user experience.
