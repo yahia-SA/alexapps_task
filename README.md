@@ -4,7 +4,7 @@ A AlexApps Task Flutter application developed by **Yahia Samir**, demonstrating 
 
 ## App Video
 
-<video src="screens/Simulator%20Screen%20Recording%20-%20iPhone%2016%20Plus%20-%202025-12-14%20at%2016.14.35.mp4" controls autoplay loop muted></video>
+<video src="screens/Screen_Recording.mp4" controls autoplay loop muted></video>
 
 ## Project Overview
 
